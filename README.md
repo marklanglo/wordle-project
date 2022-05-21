@@ -1,5 +1,5 @@
 # wordle-project
-## Long Nguyen, <Name 1>, .... 
+## Long Nguyen, Aagam Shah, Hyejin Shin, Mark Wiedeman
 
 ### API browser endpoints
 
